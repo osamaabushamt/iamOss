@@ -14,7 +14,7 @@ void main() {
         ),
 
         ),
-        backgroundColor: Colors.white30,
+        backgroundColor: Colors.white54,
       ),
     ),
   );
